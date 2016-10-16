@@ -7,7 +7,7 @@ tweet: "How to use components in Angular 2"
 
 _Updated November 16, 2015_
 
-In Angular 2, Components are the main way we build and specify elements and logic on the page.
+In Angular 2, Components are the main way with wchich, we build and specify elements on the page.
 
 In Angular 1, we achieved this through directives, controllers, and scope. In Angular 2, all those concepts
 are combined into Components.
@@ -36,4 +36,4 @@ export class MyComponent {
 ```
 
 When we use the `<my-component></my-component>` tag in our HTML, this component will be created,
-our constructor called, and rendered.
+our constructor will be called, and rendered.
