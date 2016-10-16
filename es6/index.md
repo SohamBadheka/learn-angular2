@@ -5,7 +5,7 @@ edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/index.md
 tweet: "ES6/TypeScript - What is all this?"
 ---
 
-One of the most difficult things for developers new to modern JavaScript
+One of the most difficult things for developers who are new to modern JavaScript
 is how to actually write modern JavaScript.
 
 There's ES5, ES6, then ES7, TypeScript, AtScript, Dart, Babel...the list goes on.
